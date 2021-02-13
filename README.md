@@ -34,7 +34,7 @@ connected.</font></p>
 script was created that uses the Plotly and Dash modules respectively
 for the creation of graphs and their display via the web.</font></p>
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
-&nbsp;<font face="Source Serif Pro, serif"><span style="font-style: normal"><span style="font-weight: normal">The
+<font face="Source Serif Pro, serif"><span style="font-style: normal"><span style="font-weight: normal">The
 script code is available at
 https://github.com/old-malloc/bme280monitor/blob/main/bme280monitor.py
 and a description of its operation is provided below.</span></span></font></p>
@@ -80,21 +80,20 @@ interface at port 9090.</font></p>
 following figure, the script can be launched through the command
 “python3 ./bme280monitor.py”.</font></p>
 <ul type="disc">
-	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
-	<font face="Source Serif Pro, serif">The monitor can be viewed from
-	the browser of any device on the same wi-fi network to which the
-	Raspberry Pi is connected through the link http: // [IP address of
-	the Raspberry Pi]: 9090.</font></p>
-	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
-	<font face="Source Serif Pro, serif">The following figure shows the
-	web page that realizes the monitor of the environmental parameters
-	measured through the bme280 sensor.</font></p>
-	<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
-	<font face="Source Serif Pro, serif">The next article will address
-	the integration of the acquisition system with an IOT service in the
-	cloud.</font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
+<font face="Source Serif Pro, serif">The monitor can be viewed from
+the browser of any device on the same wi-fi network to which the
+Raspberry Pi is connected through the link http: // [IP address of
+the Raspberry Pi]: 9090.</font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
+<font face="Source Serif Pro, serif">The following figure shows the
+web page that realizes the monitor of the environmental parameters
+measured through the bme280 sensor.</font></p>
+<p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
+<font face="Source Serif Pro, serif">The next article will address
+the integration of the acquisition system with an IOT service in the
+cloud.</font></p>
 </ul>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
-</body>
