@@ -21,7 +21,7 @@ BME280 sensor and a Raspberry Pi.</font></p>
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
 <font face="Source Serif Pro, serif">A shared library in “C”
 language has been created with the functions useful for carrying out
-a measurement and printing the acquired results then operation has
+a measurement and printing the acquired results, then operation has
 been verified with a simple test program.</font></p>
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
 <font face="Source Serif Pro, serif">In this article, the goal is to
