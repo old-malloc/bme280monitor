@@ -51,7 +51,7 @@ classes and &quot;bme280_data&quot;. The &quot;bme280_dev&quot; and
 structures that are used by the 'get_one_sample' function that have
 to be called from the Python script.</font></p>
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
-<font face="Source Serif Pro, serif">Section 2 initializes the queue
+<font face="Source Serif Pro, serif">&quot;Section 2&quot; initializes the queue
 of acquisition times, the queue of temperature values and the simple
 variables to store the latest pressure and humidity values. As you
 can see, for the temperature samples it was decided to store a
@@ -66,7 +66,7 @@ methods. Then an update interval of 60 seconds and two callback
 functions are defined to refresh the 'last-update' section and the
 'live-graph' section of the html page that makes up the layout.</font></p>
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
-<font face="Source Serif Pro, serif">Section 4 starts an independent
+<font face="Source Serif Pro, serif">&quot;Section 4&quot; starts an independent
 thread that calls the AcquisitionThread function. The
 AcquisitionThread function acquires a sample every 600 seconds and
 prints it to standard output.</font></p>
