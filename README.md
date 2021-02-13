@@ -1,12 +1,10 @@
-<body lang="it-IT" link="#000080" vlink="#800000" dir="ltr">
-<div id="Frame1" dir="ltr" style="position: absolute; top: 0cm; left: 0cm; width: 19.69cm; height: 1.27cm; border: none; padding: 0cm; background: #ffffff">
-	<ul><li><p align="center" style="margin-right: 0.11cm; margin-bottom: 0cm; line-height: 320%">
-		</p>
-	</ul>
-</div>
-<p align="center" style="margin-top: 0.42cm; margin-bottom: 0.21cm; line-height: 100%; page-break-after: avoid">
-<font face="Liberation Sans, sans-serif"><font size="6" style="font-size: 28pt"><b>IOT
-Lab - Data Monitoring</b></font></font></p>
+<h1 class="western">
+IOT Lab – Data Monitoring</h1>
+<p>
+<font face="Liberation Sans, sans-serif" style="font-size: 10pt">Author: Vittorino
+Baldi</font><br/>
+<a href="mailto:vittorino.baldi@gmail.com">email: vittorino.baldi@gmail.com</a>
+</p>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
