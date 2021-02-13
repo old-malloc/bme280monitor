@@ -90,7 +90,7 @@ the Raspberry Pi]: 9090.</font></p>
 <font face="Source Serif Pro, serif">The following figure shows the
 web page that realizes the monitor of the environmental parameters
 measured through the bme280 sensor.</font></p>
-<p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/fig2.png" name="Image1" alt="No alt text provided for this image" align="bottom" width="556" height="382" border="0"/>
+<p style="margin-bottom: 0cm; line-height: 100%"><img src="./images/fig2m.png" name="Image2" alt="No alt text provided for this image" align="bottom" border="0"/>
 </p>
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
 <font face="Source Serif Pro, serif">The next article will address
