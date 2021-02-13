@@ -79,7 +79,6 @@ interface at port 9090.</font></p>
 <font face="Source Serif Pro, serif">As you can see from the
 following figure, the script can be launched through the command
 “python3 ./bme280monitor.py”.</font></p>
-<ul type="disc">
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
 <font face="Source Serif Pro, serif">The monitor can be viewed from
 the browser of any device on the same wi-fi network to which the
@@ -93,7 +92,6 @@ measured through the bme280 sensor.</font></p>
 <font face="Source Serif Pro, serif">The next article will address
 the integration of the acquisition system with an IOT service in the
 cloud.</font></p>
-</ul>
 <p style="margin-bottom: 0cm; line-height: 100%"><br/>
 
 </p>
