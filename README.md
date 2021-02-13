@@ -11,7 +11,7 @@ Lab - Data Monitoring</b></font></font></p>
 
 </p>
 <p align="left" style="margin-bottom: 0cm; border: none; padding: 0cm; font-variant: normal; letter-spacing: normal; line-height: 320%; orphans: 2; widows: 2; background: #ffffff">
-&nbsp;<font face="Source Serif Pro, serif"><span style="font-style: normal"><span style="font-weight: normal">This
+<font face="Source Serif Pro, serif"><span style="font-style: normal"><span style="font-weight: normal">This
 series of articles are intended to be an explanatory exposition
 useful for understanding the general operation principles of IOT
 (Internet Of Things) solutions.</span></span></font></p>
